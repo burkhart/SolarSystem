@@ -20,7 +20,6 @@ import javax.swing.event.ChangeListener;
 import javax.swing.BoxLayout;
 import javax.swing.JComboBox;
 
-//credit to NDUNN at http://developmentality.wordpress.com/2010/02/02/how-to-make-a-solar-system-introduction-to-affine-transformations-and-java-2d/
 public class SolarSystemView extends JComponent implements Observer {
 
     // Make the sun this proportion of screen DEFAULT_WIDTH
